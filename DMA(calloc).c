@@ -3,6 +3,7 @@
 #include <stdlib.h>
 int main()
 {
+    //hello
     int n, *ptr, i, m;
     printf("DMA using Calloc \nCompiled by Chandan\n");
     printf("Enter the size of n: ");
